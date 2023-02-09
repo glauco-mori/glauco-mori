@@ -1,7 +1,7 @@
 ### Olá! Sou o Glauco Mori! 👋
 
 ##
-Sou estudante de Análise de Desenvolvimento de Sistemas. Possuo inglês fluente e tenho conhecimento em Bancos de Dados Relacionais e Não Relacionais, Python, Power BI e Excel. 
+Sou estudante de Análise de Desenvolvimento de Sistemas. Possuo inglês avançado e tenho conhecimento em Bancos de Dados Relacionais e Não Relacionais, Python, Power BI e Excel. 
 
 Possuo facilidade de aprendizado, e isso me permite adaptar-me e inovar num ambiente colaborativo. Sou um profissional organizado e isso me permite atuar em rotinas de performance com base em análises de dados e com foco no resultado.
 
